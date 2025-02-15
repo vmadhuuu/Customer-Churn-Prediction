@@ -66,11 +66,6 @@ This project implements an end-to-end **Customer Churn Prediction System** using
 
 ---
 
-## **Screenshots**
-_Add screenshots of your Flask application interface, data visualizations, or API results here._
-
----
-
 ## **Results**
 - Achieved a **15% increase in recall** through data preprocessing and SMOTE.
 - Successfully deployed a user-friendly web interface for **real-time churn prediction**.
@@ -82,12 +77,3 @@ _Add screenshots of your Flask application interface, data visualizations, or AP
 - Implement advanced visualizations for retention analysis.
 - Enhance the Flask interface with more insights and dashboards.
 
----
-
-## **Contributors**
-- [Madhumitha Venkatesan](https://github.com/vmadhuuu)
-
----
-
-## **License**
-This project is licensed under the MIT License.
